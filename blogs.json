@@ -27,67 +27,28 @@
         "url": "Bloglar/sinyal-cubuklari-ne-ise-yarar.html"
     },
     {
-        "id": 2,
-        "title": "Modern CSS: Glassmorphism Tasarımı",
-        "date": "28 Nisan 2026",
-        "excerpt": "Modern web tasarımlarının vazgeçilmezi olan cam efekti (glassmorphism) tasarımını CSS kullanarak nasıl oluşturabileceğinizi detaylıca inceliyoruz.",
+                "id": 2,
+        "title": "Bluetooth Kulaklıklar Zararlı Mı?",
+        "date": "3 Mayıs 2026",
+        "excerpt": "Bluetooth kulaklıkların sağlık üzerindeki etkilerini hakkında bilgiler bulabilirsiniz.",
         "tags": [
-            "CSS",
-            "Tasarım",
-            "UI/UX"
+            "Bluetooth Kulaklıklar",
         ],
         "hiddenTags": [
-            "cam efekti",
-            "arka plan bulanıklığı",
-            "blur",
-            "modern stil",
-            "arayüz",
-            "stil dosyası",
-            "görsel"
+            "bluetooth",
+            "kulaklık",
+            "kablosuz kulaklık",
+            "zararlı mı",
+            "radyasyon",
+            "sağlık",
+            "tehlikeli mi",
+            "tws",
+            "kulak içi",
+            "kulaklık zararları",
+            "beyin sağlığı",
+            "kanser",
+            "baş ağrısı"
         ],
-        "url": "#"
+        "url": "bluetooth-kulaklıklar-zararlı-mı.html"
     },
-    {
-        "id": 3,
-        "title": "JavaScript ile Dinamik İçerik Yükleme",
-        "date": "20 Nisan 2026",
-        "excerpt": "Fetch API kullanarak JSON dosyalarından asenkron olarak nasıl veri çekebileceğinizi ve arayüzünüzü nasıl dinamik hale getireceğinizi anlattık.",
-        "tags": [
-            "JavaScript",
-            "Frontend",
-            "API"
-        ],
-        "hiddenTags": [
-            "js",
-            "veri çekme",
-            "dinamik site",
-            "json okuma",
-            "backend yok",
-            "asenkron",
-            "fetch",
-            "kod mantığı"
-        ],
-        "url": "#"
-    },
-    {
-        "id": 4,
-        "title": "SEO İpuçları: Blogunuzu Öne Çıkarın",
-        "date": "15 Nisan 2026",
-        "excerpt": "Statik blog sitenizi arama motorlarında nasıl daha üst sıralara taşıyabileceğiniz hakkında temel SEO optimizasyon teknikleri.",
-        "tags": [
-            "SEO",
-            "İçerik",
-            "Optimizasyon"
-        ],
-        "hiddenTags": [
-            "google",
-            "arama motoru",
-            "üst sıralara çıkma",
-            "tıklanma",
-            "başarı",
-            "anahtar kelime",
-            "hit"
-        ],
-        "url": "#"
-    }
 ]
