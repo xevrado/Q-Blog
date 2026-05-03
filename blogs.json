@@ -27,12 +27,12 @@
         "url": "Bloglar/sinyal-cubuklari-ne-ise-yarar.html"
     },
     {
-                "id": 2,
+        "id": 2,
         "title": "Bluetooth Kulaklıklar Zararlı Mı?",
         "date": "3 Mayıs 2026",
         "excerpt": "Bluetooth kulaklıkların sağlık üzerindeki etkilerini hakkında bilgiler bulabilirsiniz.",
         "tags": [
-            "Bluetooth Kulaklıklar",
+            "Bluetooth Kulaklıklar"
         ],
         "hiddenTags": [
             "bluetooth",
@@ -50,5 +50,5 @@
             "baş ağrısı"
         ],
         "url": "Bloglar/bluetooth-kulaklıklar-zararlı-mı.html"
-    },
+    }
 ]
