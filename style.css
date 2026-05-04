@@ -326,7 +326,14 @@ body {
     }
 
     .sidebar-footer {
-        display: none;
+        display: block;
+        margin-top: 16px;
+        padding-top: 16px;
+        border-top: 1px solid var(--border-color);
+    }
+    
+    .social-links {
+        margin-bottom: 8px;
     }
 }
 
@@ -565,8 +572,4 @@ body {
     font-size: 13px;
     color: var(--text-secondary);
     line-height: 1.5;
-}
-
-a:visited {
-  color: blue;
 }
