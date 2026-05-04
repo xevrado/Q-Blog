@@ -406,14 +406,16 @@ body {
 .article-body h2 {
     font-size: 28px;
     color: var(--text-primary);
-    margin: 40px 0 16px 0;
+    margin: 40px 0 16px 30px;
+    /* increased left margin */
     font-weight: 600;
 }
 
 .article-body h3 {
     font-size: 22px;
     color: var(--text-primary);
-    margin: 32px 0 16px 0;
+    margin: 32px 0 16px 45px;
+    /* increased left margin */
     font-weight: 600;
 }
 
