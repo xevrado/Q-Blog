@@ -566,3 +566,7 @@ body {
     color: var(--text-secondary);
     line-height: 1.5;
 }
+
+a:visited {
+  color: blue;
+}
