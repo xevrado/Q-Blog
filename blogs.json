@@ -52,6 +52,40 @@
         "url": "Bloglar/bluetooth-kulaklıklar-zararlı-mı.html"
     },
     {
+        "id": 3,
+        "title": "Linux Kurulumu",
+        "date": "4 Mayıs 2026",
+        "excerpt": "Bu yazıda, linux işletim sistemlerinin en popülerlerinden olan \"ubuntu'nun\" kurulum aşamalarını anlatacağız. Farklı bir sistem mi kurmak istiyorsunuz? Sorun değil. Çoğu linux kurulumu çok benzer adımlarla ilerler.",
+        "tags": [
+            "Linux",
+            "Ubuntu"
+        ],
+        "hiddenTags": [
+            "Ubuntu",
+            "Debian",
+            "Fedora",
+            "CentOS",
+            "Arch Linux",
+            "Manjaro",
+            "Linux Mint",
+            "openSUSE",
+            "Red Hat Enterprise Linux",
+            "Kali Linux",
+            "Alpine Linux",
+            "Gentoo",
+            "Elementary OS",
+            "Zorin OS",
+            "Pop!_OS",
+            "Deepin",
+            "Mageia",
+            "Solus",
+            "Parrot OS",
+            "İşletim Sistemi",
+            "Popüler linux işletim sistemler"
+        ],
+        "url": "Bloglar/linux-kurulumu-ubuntu.html"
+    },
+    {
         "id": 4,
         "title": "Yerli İşletim Sistemi Pardus",
         "date": "4 Mayıs 2026",
