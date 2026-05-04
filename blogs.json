@@ -50,5 +50,32 @@
             "baş ağrısı"
         ],
         "url": "Bloglar/bluetooth-kulaklıklar-zararlı-mı.html"
+    },
+    {
+        "id": 4,
+        "title": "Yerli İşletim Sistemi Pardus",
+        "date": "4 Mayıs 2026",
+        "excerpt": "Pardus, Linux çekirdeği üzerine kurulu, TÜBİTAK ULAKBİM tarafından ve Türkiye’de geliştirilen en iyi işletim sistemlerinden biridir.",
+        "tags": [
+            "Pardus",
+            "Linux"
+        ],
+        "hiddenTags": [
+            "Pardus",
+            "Linux",
+            "İşletim Sistemi",
+            "TÜBİTAK ULAKBİM",
+            "Türkiye'nin işletim sistemi",
+            "İşletim Sistemleri",
+            "Açık Kaynaklı İşletim Sistemi",
+            "Güvenli İşletim Sistemleri",
+            "Özgür Yazılım",
+            "Linux çekirdeği",
+            "Virüslere Karşı Koruma",
+            "Windows Alternatifi",
+            "Hızlı ve Hafif İşletim Sistemi",
+            "Topluluk Desteği"
+        ],
+        "url": "Bloglar/yerli-isletim-sistemi-pardus.html"
     }
 ]
