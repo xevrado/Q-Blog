@@ -123,4 +123,31 @@ document.addEventListener('DOMContentLoaded', () => {
 
         parseMarkdownNodes(articleBody);
     }
+    
+    // Mobil Sidebar Gizleme/Gösterme
+    const appContainer = document.querySelector('.app-container');
+    const sidebar = document.querySelector('.sidebar');
+    
+    if (appContainer && sidebar) {
+        let lastScrollY = appContainer.scrollTop;
+        
+        appContainer.addEventListener('scroll', () => {
+            if (window.innerWidth <= 768) {
+                const currentScrollY = appContainer.scrollTop;
+                
+                if (currentScrollY > lastScrollY && currentScrollY > 50) {
+                    // Aşağı kaydırılıyor -> gizle
+                    sidebar.classList.add('hide-mobile');
+                } else {
+                    // Yukarı kaydırılıyor -> göster
+                    sidebar.classList.remove('hide-mobile');
+                }
+                
+                lastScrollY = currentScrollY;
+            } else {
+                // Mobilde değilsek sınıfı kaldır
+                sidebar.classList.remove('hide-mobile');
+            }
+        });
+    }
 });
