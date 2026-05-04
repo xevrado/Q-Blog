@@ -51,7 +51,7 @@
         ],
         "url": "Bloglar/bluetooth-kulaklıklar-zararlı-mı.html"
     },
-    {
+    <!--{
         "id": 3,
         "title": "Linux Kurulumu",
         "date": "4 Mayıs 2026",
@@ -84,7 +84,7 @@
             "Popüler linux işletim sistemler"
         ],
         "url": "Bloglar/linux-kurulumu-ubuntu.html"
-    },
+    },-->
     {
         "id": 4,
         "title": "Yerli İşletim Sistemi Pardus",
