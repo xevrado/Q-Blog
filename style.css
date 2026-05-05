@@ -577,3 +577,18 @@ body {
     color: var(--text-secondary);
     line-height: 1.5;
 }
+@media (max-width: 768px) {
+    .title-with-info {
+        flex-direction: column; /* Elemanları yan yana değil, alt alta diz */
+        gap: 16px; /* Mobilde aradaki boşluğu biraz azaltmak daha iyi durur */
+    }
+
+    .title-with-info .article-title {
+        align-self: flex-start; /* Mobilde başlığı ortalamak yerine sola yasla */
+    }
+    
+    .title-info-box {
+        width: 100%; /* Bilgi kutusunun ekran genişliğini tam kaplamasını sağla */
+        box-sizing: border-box; /* Padding değerlerinin genişliği bozmasını engelle */
+    }
+}
