@@ -112,5 +112,30 @@
             "Topluluk Desteği"
         ],
         "url": "Bloglar/yerli-isletim-sistemi-pardus.html"
+    },
+    {
+        "id": 5,
+        "title": "yt-dlp ile Video İndirme",
+        "date": "7 Mayıs 2026",
+        "excerpt": "yt-dlp'nin ne olduğunu, yt-dlp ile internet üzerindeki binlerce kaynak üzerinden video ve ses dosyalarını indirme aşamalarını anlatacağız.",
+        "tags": [
+            "yt-dlp",
+            "Video İndirme"
+        ],
+        "hiddenTags": [
+            "yt-dlp",
+            "Video İndirme",
+            "YouTube",
+            "İnternetten video indirme",
+            "İnstagram video indirme",
+            "Twitter video indirme",
+            "Tiktok video indirme",
+            "Video indirme programı",
+            "Video indirme siteleri",
+            "Video indirme linki",
+            "Video indirme komutları",
+            "Link ile video indirme"
+        ],
+        "url": "Bloglar/yt-dlp-ile-video-indirme.html"
     }
 ]
